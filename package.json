@@ -1,0 +1,16 @@
+{
+  "name": "developer",
+  "version": "1.0.0",
+  "description": "RestFull Practice",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Mauricio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-errors": "^2.0.0",
+    "mongoose": "^8.1.1"
+  }
+}
